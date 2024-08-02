@@ -34,7 +34,7 @@ app.use('/', Routes);
 })
 
 
-const DB='mongodb+srv://vvaishu053:vaish%4022@cluster0.ysgsq3w.mongodb.net/'
+const DB='mongodb+srv://sharanyamanohar03:2109sha03m@cluster0.jshjhkk.mongodb.net/'
 mongoose.connect(DB,{
     useNewUrlParser:true,
 }).then(()=>{
